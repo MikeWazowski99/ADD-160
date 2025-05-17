@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "firstName": "Jake",
+      "lastName": "Johnson",
+      "email": "Jake.johnson@example.com",
+      "phone": "111-222-3333",
+      "isFavorite": true,
+      "lastContacted": "05-15-2025"
+    },
+    {
+      "firstName": "William",
+      "lastName": "Smith",
+      "email": "Will.smith@example.com",
+      "phone": "112-223-3334",
+      "isFavorite": false,
+      "lastContacted": "01-01-2025"
+    }
+  ]
+}
